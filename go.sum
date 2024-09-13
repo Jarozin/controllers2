@@ -1,0 +1,6 @@
+github.com/Jarozin/interfaces2 v0.1.0 h1:qOdLwsrrBBNOTFm3/luVoakR2xjXX+cL/3trrKuEAu0=
+github.com/Jarozin/interfaces2 v0.1.0/go.mod h1:0k6beRpfHcPUNH/1aBwVNqO6yhH/tyCWx4LD3LHhs68=
+github.com/Jarozin/models v0.1.0 h1:YmfwsuHuotsMCpE8pzOp+i7Rw45RIje3lFEWODjFr08=
+github.com/Jarozin/models v0.1.0/go.mod h1:N7eJn7hwcRGBCP+V173oByoOp9uLRSX7IsQuLjh/6mY=
+golang.org/x/crypto v0.27.0 h1:GXm2NjJrPaiv/h1tb2UH8QfgC/hOf/+z0p6PT8o1w7A=
+golang.org/x/crypto v0.27.0/go.mod h1:1Xngt8kV6Dvbssa53Ziq6Eqn0HqbZi5Z6R0ZpwQzt70=
